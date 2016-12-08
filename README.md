@@ -20,7 +20,7 @@ Folders are divided into sub-parts
 ```js
 cd plugin
 npm install or yarn install
-gulp build // generated the plugin in plugin/dist directory
+gulp build // generates the plugin in plugin/dist directory
 ```
 
 ## Running server
@@ -28,7 +28,7 @@ gulp build // generated the plugin in plugin/dist directory
 ```js
 cd server
 npm install or yarn install
-npm start // runs server on port 3001
+npm start // runs backend api server on port 3001
 ```
 
 ## Running app(UI)
@@ -36,5 +36,5 @@ npm start // runs server on port 3001
 ```js
 cd app
 npm install or yarn install
-npm start // runs server on port 3000
+npm start // runs dev server on port 3000
 ```
