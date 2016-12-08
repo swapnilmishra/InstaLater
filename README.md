@@ -1,3 +1,9 @@
+## What it can do ?
+
+* Saves image (from context menu)
+* Saves text snippet (by selecting text and clicking on plugin icon)
+* Saves url (clicking on plugin icon without selected any text)
+
 ![](https://raw.githubusercontent.com/swapnilmishra/InstaLater/master/screenshot/screen.gif)
 
 ## Folder structure
